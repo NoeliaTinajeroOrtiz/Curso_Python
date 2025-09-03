@@ -37,23 +37,20 @@ Este curso es ideal para:
    git clone https://github.com/NoeliaTinajeroOrtiz/Curso_Python.git
 Accede al directorio:
 
-bash
-Copiar código
 cd Curso_Python
+
 Ejecuta los archivos de ejemplo:
 
-bash
-Copiar código
 python hola_mundo.py
+
 Explora, modifica y prueba los diferentes ejemplos.
 
 💡 Buenas prácticas
 Trabaja con entornos virtuales para mantener organizado tu entorno:
 
-bash
-Copiar código
 python -m venv venv
 source venv/bin/activate   # En Windows: .\venv\Scripts\activate
+
 Si añades más ejercicios o dependencias, actualiza este README para mantenerlo claro y útil.
 
 🤝 Contribuciones
